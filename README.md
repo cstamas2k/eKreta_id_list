@@ -1,5 +1,5 @@
 # eKreta_id_list
-e-Kréta ID-intézmény lista
+e-Kréta ID-intézmény lista, nem biztos hogy teljes
 
 
 # használat
